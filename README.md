@@ -6,5 +6,5 @@ While results from clustering have highlighted high risk categories of patients,
 
 Authors:
 
-- Stefano Valentini https://gitlab.com/valent0ne
-- Valentina Cecchini https://gitlab.com/Nimerya
+- Stefano Valentini https://github.com/valent0ne
+- Valentina Cecchini https://github.com/Nimerya
